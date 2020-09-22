@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.core:core-ktx:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/3276c4f0cda41986cafdc89cc5503a15/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.sqldelight:android-driver:1.4.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5ac26c79d8dc6635dac293f9e61a06eb/android-driver-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f69d6fe619b0387d5d8abfb1dea19bdd/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/60389e1578bd7a578809d2ada5de371c/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9e25afd706bce7708b4650a8317a2e98/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ce7d25d9e04b72d5370e3a3acebd0020/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6ac21033991507574d824a873b268262/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/fc1ced14b2d44fadeecbf27445ca2f7d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2c6fe882338e0fed1a9928b3b7d7b4b5/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1f0af4deca171ce9356b840d51633480/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ff16d3a35814e482973b5a885c2c0855/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a60f2734b007e2b5404a7955e8e2f3f3/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9d2ee3dd24cc4a631345592cd6a45b7c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b3008ccb071127dae15ac1a5b9ba860b/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/46d1f1813f7d6ec6789555f515c3e221/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b09db36c70399962d0096a9526b49e8c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2171faf742913a21c670099b462ef0e6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a6588490a794c300a8d9147b9f790ed7/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5440ee349a498129ff244bff6c789329/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f958ee52fc9f21131381f1efa881681c/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/460a663669110c64a81c7994409918cc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38ad2aa9f92a013e35929b4027f5ee55/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ea2a6583f6cb7f923a37a44d06069c8b/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9bccd87e0398a2290a01a67e46812286/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/334446d4da0d0cbe8b9eb3751bffa90c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a68401d0f1683d0a09b513d1d88c149c/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38f0f3939f7534d69c23e64d8c57f1e8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9251bcc1fb5f101bb794f54d055b2a23/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/065fec175c7ffe60a249d96ec0acd9e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/c7e5c3edf7914de4fb6d742209e1470a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6d34cf20d7d4b4b3fcf639088abd3591/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/e085566b88839236fafca028edce2681/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:70-109
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f69d6fe619b0387d5d8abfb1dea19bdd/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f69d6fe619b0387d5d8abfb1dea19bdd/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/60389e1578bd7a578809d2ada5de371c/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/60389e1578bd7a578809d2ada5de371c/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/334446d4da0d0cbe8b9eb3751bffa90c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/334446d4da0d0cbe8b9eb3751bffa90c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#dev.gustavo.kmmapp.androidApp.MainActivity
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/3276c4f0cda41986cafdc89cc5503a15/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/3276c4f0cda41986cafdc89cc5503a15/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqldelight:android-driver:1.4.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5ac26c79d8dc6635dac293f9e61a06eb/android-driver-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.4.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5ac26c79d8dc6635dac293f9e61a06eb/android-driver-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f69d6fe619b0387d5d8abfb1dea19bdd/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f69d6fe619b0387d5d8abfb1dea19bdd/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/60389e1578bd7a578809d2ada5de371c/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/60389e1578bd7a578809d2ada5de371c/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9e25afd706bce7708b4650a8317a2e98/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9e25afd706bce7708b4650a8317a2e98/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ce7d25d9e04b72d5370e3a3acebd0020/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ce7d25d9e04b72d5370e3a3acebd0020/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6ac21033991507574d824a873b268262/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6ac21033991507574d824a873b268262/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/fc1ced14b2d44fadeecbf27445ca2f7d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/fc1ced14b2d44fadeecbf27445ca2f7d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2c6fe882338e0fed1a9928b3b7d7b4b5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2c6fe882338e0fed1a9928b3b7d7b4b5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1f0af4deca171ce9356b840d51633480/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1f0af4deca171ce9356b840d51633480/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ff16d3a35814e482973b5a885c2c0855/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ff16d3a35814e482973b5a885c2c0855/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a60f2734b007e2b5404a7955e8e2f3f3/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a60f2734b007e2b5404a7955e8e2f3f3/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9d2ee3dd24cc4a631345592cd6a45b7c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9d2ee3dd24cc4a631345592cd6a45b7c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b3008ccb071127dae15ac1a5b9ba860b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b3008ccb071127dae15ac1a5b9ba860b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/46d1f1813f7d6ec6789555f515c3e221/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/46d1f1813f7d6ec6789555f515c3e221/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b09db36c70399962d0096a9526b49e8c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/b09db36c70399962d0096a9526b49e8c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2171faf742913a21c670099b462ef0e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/2171faf742913a21c670099b462ef0e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a6588490a794c300a8d9147b9f790ed7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a6588490a794c300a8d9147b9f790ed7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5440ee349a498129ff244bff6c789329/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/5440ee349a498129ff244bff6c789329/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f958ee52fc9f21131381f1efa881681c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/f958ee52fc9f21131381f1efa881681c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/gustavo/.gradle/caches/transforms-2/files-2.1/1034457ec280041e714d944e896863bd/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/460a663669110c64a81c7994409918cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/460a663669110c64a81c7994409918cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38ad2aa9f92a013e35929b4027f5ee55/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38ad2aa9f92a013e35929b4027f5ee55/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ea2a6583f6cb7f923a37a44d06069c8b/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/ea2a6583f6cb7f923a37a44d06069c8b/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9bccd87e0398a2290a01a67e46812286/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9bccd87e0398a2290a01a67e46812286/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/334446d4da0d0cbe8b9eb3751bffa90c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/334446d4da0d0cbe8b9eb3751bffa90c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a68401d0f1683d0a09b513d1d88c149c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/a68401d0f1683d0a09b513d1d88c149c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38f0f3939f7534d69c23e64d8c57f1e8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/38f0f3939f7534d69c23e64d8c57f1e8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9251bcc1fb5f101bb794f54d055b2a23/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/9251bcc1fb5f101bb794f54d055b2a23/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/065fec175c7ffe60a249d96ec0acd9e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/065fec175c7ffe60a249d96ec0acd9e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/c7e5c3edf7914de4fb6d742209e1470a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/c7e5c3edf7914de4fb6d742209e1470a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6d34cf20d7d4b4b3fcf639088abd3591/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/6d34cf20d7d4b4b3fcf639088abd3591/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/e085566b88839236fafca028edce2681/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gustavo/.gradle/caches/transforms-2/files-2.1/e085566b88839236fafca028edce2681/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/androidApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:shared] /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:shared] /home/gustavo/Documentos/PROJETOS_MOBILE/KMMApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-64

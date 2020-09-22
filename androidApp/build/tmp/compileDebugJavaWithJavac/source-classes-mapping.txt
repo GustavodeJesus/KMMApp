@@ -1,0 +1,2 @@
+dev/gustavo/kmmapp/androidApp/BuildConfig.java
+ dev.gustavo.kmmapp.androidApp.BuildConfig
